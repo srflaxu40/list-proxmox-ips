@@ -29,7 +29,7 @@ python app.py
 
 
 ## (Linux) Create systemd service:
-* vi /etc/systemd/system/list-proxmox-ips.service
+* `vi /etc/systemd/system/list-proxmox-ips.service`
 ```
 [Unit]
 Description=Proxmox IP Directory (Flask)

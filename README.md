@@ -27,6 +27,10 @@ source .env
 python app.py
 ```
 
+Enjoy.
+
+![image](./docs/splash.png)
+
 
 ## (Linux) Create systemd service:
 * `vi /etc/systemd/system/list-proxmox-ips.service`

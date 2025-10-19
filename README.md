@@ -8,6 +8,7 @@
 python3 -m .venv .venv
 pip install -r requirements.txt
 ```
+* Enable qemu agent and install `sudo apt qemu-guest-agent` then reboot.
 
 ## Run the App:
 * Edit your variables, surce the environment, and then run it:
